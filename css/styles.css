@@ -1,0 +1,118 @@
+a {
+  position: relative;
+}
+
+body {
+  background-color: hsl(30, 38%, 92%);
+  font-size: 14px;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Fraunces', serif;
+  font-size: 32px;
+  font-weight: bolder;
+  line-height: 1;
+  width: 200px;
+  margin-bottom: 29px;
+}
+
+h4 {
+  color: #1c232b;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  margin: 37px auto 15px auto;
+  letter-spacing: 4px;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.7;
+}
+
+.bigger {
+  color: #3c8067;
+  font-family: 'Fraunces', serif;
+  font-size: 32px;
+  margin-right: 20px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 14px;
+  background: #3c8067;
+  padding: 14px 72px 14px 90px;
+  position: absolute;
+  bottom: 24px;
+  right: 45px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+.cart {
+  position: absolute;
+  right: 163px;
+  bottom: 10px;
+}
+
+.smaller {
+  display: inline-block;
+  font-size: 14px;
+  position: absolute;
+  bottom: 110px;
+  text-decoration: line-through;
+}
+
+.attribution {
+  font-size: 11px;
+  position: absolute;
+  right: 24px;
+  bottom: 0;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.image {
+  border-radius: 10px 0 0 10px;
+  width: 309px;
+  height: 475px;
+}
+
+.set {
+  background-color: white;
+  border-radius: 10px;
+  position: relative;
+  margin: 225px auto;
+  width: 620px;
+  height: 475px;
+}
+
+.subset {
+  position: absolute;
+  left: 0;
+}
+
+.subset2 {
+  position: absolute;
+  left: 340px;
+  width: 290px;
+  height: 465px;
+}
+
+.tighter {
+  color: #6c7989;
+  font-weight: 600;
+  width: 220px;
+  margin-bottom: 20px;
+}
